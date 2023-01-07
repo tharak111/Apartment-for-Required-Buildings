@@ -1,0 +1,5 @@
+1. for my understanding, a person move to new apartment in a specific street
+2. He need some requirements on that street or near by apartment
+3. So, that the reason I write "allRequirementsAvailableInAStreet(blocks, reqs)" method there is chance to have all requirements specific also 
+4. Otherwise we move to next apartment for our requirements, so that will handle the "apartmentToReachRequiredBuildings(blocks, reqs)" method.
+5. so, this is my simple explanation doucment.
